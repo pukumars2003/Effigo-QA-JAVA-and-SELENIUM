@@ -1,6 +1,6 @@
-# Learn Java  
+# Learn Java and Selenium
 
-Welcome to the **Learn Java** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
+Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
 ## Repository Structure  
 
