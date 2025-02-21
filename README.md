@@ -2,7 +2,7 @@
 
 Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
-## Repository Structure  
+## Java Repository Structure  17/02/2025-19/02/2025
 
 The `src` directory contains multiple packages, each focusing on specific Java programming concepts. Below is an overview of the packages included, along with links to access them directly:  
 
@@ -15,7 +15,18 @@ The `src` directory contains multiple packages, each focusing on specific Java p
 - [Inheritance](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Inheritance) - Concepts of inheritance and its implementation.  
 - [Interface](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Interface) - Understanding interfaces in Java.  
 - [Method Overloading](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Method_Overloading) - Examples of method overloading.  
-- [OOPs](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/oops) - Overview of Object-Oriented Programming concepts.  
+- [OOPs](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/oops) - Overview of Object-Oriented Programming concepts.
+
+
+## Selenium Repository Structure  20/02/2025-21/02/2025
+
+The `src` directory contains multiple packages, each focusing on specific Selenium programming concepts. Below is an overview of the packages included, along with links to access them directly:  
+
+- [Selenium] - Concepts related to abstract classes and methods.  
+- [Locators] - Implementation of Java Collections Framework.  
+- [Xpath]- Understanding constructors in Java.  
+
+
 
 ## Getting Started  
 
