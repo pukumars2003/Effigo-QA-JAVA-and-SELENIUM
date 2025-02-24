@@ -8,7 +8,11 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 import org.openqa.selenium.By;
 public class First {
-
+	
+	public static void mM() {
+		
+	}
+	
 	public static void main(String[] args) {
 		WebDriver driver=new ChromeDriver();
 		
