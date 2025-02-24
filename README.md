@@ -6,11 +6,12 @@ Welcome to the **Learn Java and Selenium** repository! This project is designed 
 
 The `src` directory contains multiple packages, each focusing on specific Java programming concepts. Below is an overview of the packages included, along with links to access them directly:  
 
-- [Xpath-Axes](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Abstract)   
-- [Windowhandler](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Collections)  
-- [WindowHandler_With_Loop](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Constructor) 
-- [Navigate_Methods](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Constructor_overloading) 
-- [All the Topics Implemented for testing luma website](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Encapsulation)
+- [Xpath-Axes](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Monday/First.java)   
+- [Windowhandler](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Monday/Handling_Multiple_Browser_Window.java)  
+- [WindowHandler_With_Loop](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Monday/Handling_Multiple_Window_With_Loop.java) 
+- [Navigate_Methods](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Monday/Zeroth_Navigate.java)
+- [Closing of the switched window with id](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Monday/Closing_Multiple_Window_with_id.java)
+- [All the Topics Implemented for testing luma website](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Monday/First.java)
 
 
 
