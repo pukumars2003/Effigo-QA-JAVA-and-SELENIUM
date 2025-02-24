@@ -2,6 +2,25 @@
 
 Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
+## Selenium Fourth Week Repository Structure  24/02/2025
+
+The `src` directory contains multiple packages, each focusing on specific Java programming concepts. Below is an overview of the packages included, along with links to access them directly:  
+
+- [Xpath-Axes](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Abstract)   
+- [Windowhandler](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Collections)  
+- [WindowHandler_With_Loop](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Constructor) 
+- [Navigate_Methods](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Constructor_overloading) 
+- [All the Topics Implemented for testing luma website](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Learn_Java/src/Encapsulation)
+
+
+
+
+
+
+
+
+
+
 ## Java Repository Structure  17/02/2025-19/02/2025
 
 The `src` directory contains multiple packages, each focusing on specific Java programming concepts. Below is an overview of the packages included, along with links to access them directly:  
