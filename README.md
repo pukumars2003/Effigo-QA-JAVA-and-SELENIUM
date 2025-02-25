@@ -4,6 +4,17 @@ Welcome to the **Learn Java and Selenium** repository! This project is designed 
 
 ## Selenium Fourth Week Repository Structure  24/02/2025
 
+### Tuesday
+- [CheckBoxes and Forms](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Tuesday/Check_Box_And_Form.java)   
+- [ALert Box](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Tuesday/Alert_Window.java)  
+- [Alert Box without the switchto()](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Tuesday/Alert_Without_Switchto.java) 
+- [Select Option](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Tuesday/Select_Option.java)
+- [Bootstrap option](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Tuesday/BootStrap_DropDown.java)
+- [Dynamic Links Handler](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Tuesday/Dynamic_Links_Extractions.java)
+
+
+
+### Monday
 The `src` directory contains multiple packages, each focusing on specific Java programming concepts. Below is an overview of the packages included, along with links to access them directly:  
 
 - [Xpath-Axes](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Monday/First.java)   
