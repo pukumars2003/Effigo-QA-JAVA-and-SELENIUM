@@ -2,7 +2,18 @@
 
 Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
-## Selenium Fourth Week Repository Structure  24/02/2025-25/02/2025
+## Selenium Fourth Week Repository Structure  24/02/2025-28/02/2025
+
+### Friday
+- [Slider](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Friday/Slider.java)   
+- [KeyBoard Actions](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Friday/KeyBoard_Actions.java)  
+- [KeyBoard with redirections](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Friday/KeyBoard_With_Redirection.java) 
+- [New Window Tab and Window](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Friday/New_Window_Tab.java)
+- [Single and Multiple file upload and validation](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Friday/Single_File_Upload.java)
+- [JavaScript Executor](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Friday/Java_Script_Executor.java)
+- [JavaScript Executor ZoomIn and Out](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Friday/Javaexexecutor_zoomin_zoomout.java)
+- [JavaScript Executor Scrolling](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Friday/JavaScript_Scrolling_page.java)
+
 
 ### Thursday
 - [AutoSuggestion DropDown](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Thursday/Zeorth.java)   
