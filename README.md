@@ -2,6 +2,20 @@
 
 Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
+## Selenium Fifth Week Repository Structure  03/03/2025
+
+### Monday
+- [TestNG With Priority](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/Zeorth.java)   
+- [Annotations](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/First.java)  
+- [DependencyMethods](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/DepedencyMethods.java) 
+- [Hard_Assertions](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/Hard_Assertions.java)
+- [Soft_Assertions](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/softassert_.java)
+- [@DataProviders](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/First.java)
+- [Parallel Testing](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/Parellel_Testing_Parameters.java)
+- [Listners_Class_Reports](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/Listeners_Class_Report.java)
+- [Listners_XML](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/lisntner_testng.xml)
+
+
 ## Selenium Fourth Week Repository Structure  24/02/2025-28/02/2025
 
 ### Friday
@@ -33,9 +47,7 @@ Welcome to the **Learn Java and Selenium** repository! This project is designed 
 - [Dynamic Links Handler](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Tuesday/Dynamic_Links_Extractions.java)
 
 
-
-### Monday
-The `src` directory contains multiple packages, each focusing on specific Java programming concepts. Below is an overview of the packages included, along with links to access them directly:  
+### Monday  
 
 - [Xpath-Axes](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Monday/First.java)   
 - [Windowhandler](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Selenium_fourth_Week/src/main/java/Monday/Handling_Multiple_Browser_Window.java)  
