@@ -10,10 +10,10 @@ Welcome to the **Learn Java and Selenium** repository! This project is designed 
 - [DependencyMethods](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/DepedencyMethods.java) 
 - [Hard_Assertions](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/Hard_Assertions.java)
 - [Soft_Assertions](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/softassert_.java)
-- [@DataProviders](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/First.java)
-- [Parallel Testing](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/Parellel_Testing_Parameters.java)
-- [Listners_Class_Reports](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/Listeners_Class_Report.java)
-- [Listners_XML](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/lisntner_testng.xml)
+- [@DataProviders](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday/First.java)
+- [Parallel Testing](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday/Parellel_Testing_Parameters.java)
+- [Listners_Class_Reports](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday/Listeners_Class_Report.java)
+- [Listners_XML](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday/lisntner_testng.xml)
 
 
 ## Selenium Fourth Week Repository Structure  24/02/2025-28/02/2025
