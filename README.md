@@ -4,6 +4,16 @@ Welcome to the **Learn Java and Selenium** repository! This project is designed 
 
 ## Selenium Fifth Week Repository Structure  03/03/2025
 
+### Tuesday
+- [Reading from Excel](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Tuesday/Reading_Excel_Data.java)   
+- [Writing in excel](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Tuesday/Writing_IN_Excel.java)  
+- [Dynamic entry in excel](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Tuesday/Creating_Excel_In_Dynamic.java) 
+- [Automation Frame Work (BasePage)](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Fifth_Week_Hybrid_FrameWork/src/test/java/pageObjects/BasePage.java)
+- [Home Page](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Fifth_Week_Hybrid_FrameWork/src/test/java/pageObjects/HomePage.java)
+- [AccountRegistration Page Methods](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Fifth_Week_Hybrid_FrameWork/src/test/java/pageObjects/AccountRegistrationPage.java)
+- [Test Cases Package(Automation of account registration)](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Fifth_Week_Hybrid_FrameWork/src/test/java/testCases/TC001_AccountRegistrationTest.java)
+
+
 ### Monday
 - [TestNG With Priority](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/Zeorth.java)   
 - [Annotations](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SELENIUM_FIFTH_WEEK/src/test/java/Monday_INITIAL/First.java)  
