@@ -12,13 +12,13 @@ Welcome to the **Learn Java and Selenium** repository! This project is designed 
 - [PUT_BOTH_BDD_AND_NON_BDD_PUT](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/PUT_BOTH_BDD_AND_NON_BDD.java)
 - [Service Object Model]
   - [com.api.base]
-    -[AuthService](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api.base/AuthService.java)
-    -[BaseService](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api.base/BaseService.java)
-- [com.api.models]
-    -[LoginRequest](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api.models.request/LoginRequest.java)
-    -[Loginresponse](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api.models.response/LoginResponse.java)
+      -[AuthService](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api/base/AuthService.java)
+      -[BaseService](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api/base/BaseService.java)
+  - [com.api.models]
+      -[LoginRequest](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api/models/request/LoginRequest.java)
+      -[Loginresponse](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api/models/response/LoginResponse.java)
   -[com.api.tests]
-    -[LoginAPITest](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api.tests/LoginAPITest.java)
+      -[LoginAPITest](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com.api/tests/LoginAPITest.java)
  
 
 
