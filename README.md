@@ -1,8 +1,8 @@
-# Learn Java and Selenium
+# Learn Java, Selenium And RestAssured
 
 Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
-## Selenium Sixth Week Repository Structure  12/03/2025
+## RestAssured Sixth Week Repository Structure  12/03/2025
 
 ### Wednesday
 - [GETMethod](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/GetMethod.java)   
@@ -10,14 +10,14 @@ Welcome to the **Learn Java and Selenium** repository! This project is designed 
 - [BDD_STYLE_POST](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/BDD_STYLE_POST.java) 
 - [Non_BDD_STYLE_POST](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/NON_BDD_POST_Request.java)
 - [PUT_BOTH_BDD_AND_NON_BDD_PUT](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/PUT_BOTH_BDD_AND_NON_BDD.java)
-- [Service Object Model]
-  - [com.api.base]
+- Service Object Model
+  - com.api.base
       -[AuthService](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com/api/base/AuthService.java)
       -[BaseService](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com/api/base/BaseService.java)
-  - [com.api.models]
+  - com.api.models
       -[LoginRequest](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com/api/models/request/LoginRequest.java)
       -[Loginresponse](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com/api/models/response/LoginResponse.java)
-   -[com.api.tests]
+   -com.api.tests
       -[LoginAPITest](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/com/api/tests/LoginAPITest.java)
  
  
