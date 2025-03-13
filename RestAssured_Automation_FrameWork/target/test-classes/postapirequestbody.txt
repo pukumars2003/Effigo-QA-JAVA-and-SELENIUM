@@ -1,0 +1,11 @@
+{
+    "firstname": "okdf",
+    "lastname": "sda",
+    "totalprice": 42445,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2025-03-13",
+        "checkout": "0255-03-30"
+    },
+    "additionalneeds": "vdsfd"
+}
