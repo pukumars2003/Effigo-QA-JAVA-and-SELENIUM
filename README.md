@@ -2,8 +2,19 @@
 
 Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
-## RestAssured Sixth Week Repository Structure  12/03/2025
+## RestAssured Sixth Week Repository Structure  12/03/2025-13/03/2025
 
+### Thursday
+- [RequestSpecification](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/ORequestSpecification.java)   
+- [Multiple Ways of Calling HTTP Methods on a RequestSpecification](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/RequestSpecificationExample.java)  
+- [Building RequestSpecification Using RequestSpecBuilder](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/RequestSpecBuilderExample.java) 
+- [Setting a Default RequestSpecification in Rest Assured](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/DefaultRequestSpecificationExample.java)
+- [Querying RequestSpecification in Rest Assured](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/QueryingRequestSpecificationExample.java)
+-How to Send a JSON/XML File as Payload to Request
+    -[JSONOBJECT Creation](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/JSONOBJECT.java)
+  -[Extract Keyword](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/Extract_KeyWord.java)
+ -[JSONOBJECT](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/BasicsCreating_Booking.java)
+ 
 ### Wednesday
 - [GETMethod](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/GetMethod.java)   
 - [BDD_GET](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/BDD.java)  
