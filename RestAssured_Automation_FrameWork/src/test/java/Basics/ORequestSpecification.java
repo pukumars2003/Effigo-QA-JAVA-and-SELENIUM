@@ -30,7 +30,6 @@ public class ORequestSpecification {
 		// Then
 		   .then()
 		   .statusLine("HTTP/1.1 200 OK");	
-		
 	}
 	
 	@Test

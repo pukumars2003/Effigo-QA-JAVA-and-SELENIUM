@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Basics.DefaultRequestSpecificationExample">
+      <class name="Seventh_week.HamcrestString">
         <methods>
-          <include name="setupDefaultRequestSpecification"/>
-          <include name="useDefaultRequestSpecification"/>
-          <include name="overrideDefaultRequestSpecification"/>
+          <include name="stringAssertions"/>
         </methods>
-      </class> <!-- Basics.DefaultRequestSpecificationExample -->
+      </class> <!-- Seventh_week.HamcrestString -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
