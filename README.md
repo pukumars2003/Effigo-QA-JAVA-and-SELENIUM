@@ -2,6 +2,32 @@
 
 Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
+
+
+
+## Security testing using zap and selenium with assessment
+- [Passive Scan](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ZAP/src/test/java/ZapTest.java)[Util](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ZAP/src/Main/java/Util/ZapUtil.java) 
+- [Active Scan](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/src/test/java/ZapTest.java)[Util](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/src/Main/java/Util/ZapUtil.java)   
+- [Spider](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_SPIDER/src/test/java/ZapTest.java)[Util](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_SPIDER/src/Main/java/Util/ZapUtil.java) 
+- [Assessment Files](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Security%20Assessment)
+- [WebGoat Application download](https://github.com/WebGoat/WebGoat)
+
+
+
+
+
+### Thursday
+- [RequestSpecification](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/ORequestSpecification.java)   
+- [Multiple Ways of Calling HTTP Methods on a RequestSpecification](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/RequestSpecificationExample.java)  
+- [Building RequestSpecification Using RequestSpecBuilder](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/RequestSpecBuilderExample.java) 
+- [Setting a Default RequestSpecification in Rest Assured](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/DefaultRequestSpecificationExample.java)
+- [Querying RequestSpecification in Rest Assured](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/QueryingRequestSpecificationExample.java)
+-How to Send a JSON/XML File as Payload to Request
+- [JSONOBJECT Creation](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/JSONOBJECT.java)
+- [Extract Keyword](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/Basics/Extract_KeyWord.java)
+- [JSONOBJECT](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/RestAssured_Automation_FrameWork/src/test/java/BasicsCreating_Booking.java)
+
+
 ## RestAssured Sixth Week Repository Structure  12/03/2025-13/03/2025
 
 ### Thursday
