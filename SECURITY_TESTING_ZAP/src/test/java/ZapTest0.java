@@ -1,0 +1,51 @@
+import Util.ZapUtil0;
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+import org.zaproxy.clientapi.core.*;
+
+import java.lang.reflect.Method;
+
+import static Util.ZapUtil0.*;
+
+public class ZapTest0 {
+
+    WebDriver driver;
+    //private final String contextName="Demo_Context";
+    private final String urlToTest="http://127.0.0.1:8080/WebGoat/login";
+    //private final String urlToTest="https://juice-shop.herokuapp.com/";
+
+    @BeforeMethod
+    public void setUp(){
+        ChromeOptions chromeOptions=new ChromeOptions();
+        chromeOptions.setProxy(proxy);
+        chromeOptions.setAcceptInsecureCerts(true);
+
+        WebDriverManager.chromedriver().setup();
+        driver=new ChromeDriver(chromeOptions);
+    }
+
+    @Test
+    public void testPassiveScan(){
+        driver.get(urlToTest);
+        driver.findElement(By.xpath("//input[@id='exampleInputEmail1']")).sendKeys("ajay123");
+        driver.findElement(By.xpath("//input[@id='exampleInputPassword1']")).sendKeys("ajay123");
+        driver.findElement(By.xpath("//button[@type='submit']")).click();
+        waitTillPassiveScanCompleted();
+    }
+
+
+    @AfterMethod
+    public void tearDown(Method method) throws ClientApiException{
+        generateZapReport(urlToTest);
+        cleanTheScanTree();
+        //driver.quit();
+    }
+
+}
