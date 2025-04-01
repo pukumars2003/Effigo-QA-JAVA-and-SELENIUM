@@ -6,9 +6,9 @@ Welcome to the **Learn Java and Selenium** repository! This project is designed 
 
 
 ## Security testing using zap and selenium with assessment
-- [Passive Scan](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ZAP/src/test/java/ZapTest.java)[Util](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ZAP/src/Main/java/Util/ZapUtil.java) 
-- [Active Scan](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/src/test/java/ZapTest.java)[Util](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/src/Main/java/Util/ZapUtil.java)   
-- [Spider](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_SPIDER/src/test/java/ZapTest.java)[Util](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_SPIDER/src/Main/java/Util/ZapUtil.java) 
+- [Passive Scan](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ZAP/src/test/java/ZapTest.java)  [Util Package](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ZAP/src/main/java/Util/ZapUtil.java) 
+- [Active Scan](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/src/test/java/ZapTest.java)  [Util Package](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/src/main/java/Util/ZapUtil.java)   
+- [Spider](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_SPIDER/src/test/java/ZapTest.java)  [Util Package](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_SPIDER/src/Main/java/Util/ZapUtil.java) 
 - [Assessment Files](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Security%20Assessment)
 - [WebGoat Application download](https://github.com/WebGoat/WebGoat)
 
