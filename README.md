@@ -2,8 +2,12 @@
 
 Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
-
-
+## Security testing assessment
+- [First Assessment File](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Security%20Assessment/First%20Assesment.pdf)
+- [WebGoat Application download](https://github.com/WebGoat/WebGoat)
+- [csrf html files](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Security%20Assessment/csrf_level5.html)
+- - [csrf html files](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Security%20Assessment/csrf_level6.html)
+- [Assessment Files](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Security%20Assessment)
 
 ## Security testing using zap and selenium with assessment
 - [Passive Scan](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ZAP/src/test/java/ZapTest.java)  [Util Package](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/SECURITY_TESTING_ZAP/src/main/java/Util/ZapUtil.java) 
