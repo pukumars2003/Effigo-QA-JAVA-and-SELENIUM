@@ -3,6 +3,12 @@
 Welcome to the **Learn Java and Selenium** repository! This project is designed to help you understand Java programming through various concepts, packages, and practical examples. Each package contains programs that illustrate fundamental Java principles and practices.  
 
 ## Security testing assessment
+- [Second Assessment VAPT PDF Report](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Security%20Assessment/First%20Assesment.pdf)
+- [ZAP Scan Files](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Security%20Assessment/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/src/main/java/Util/ZapUtil.java)
+- - [ZAP Scan Test File](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Security%20Assessment/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/src/test/java/ZapTest.java)
+- - [Zap Active Scan Report.html](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Security%20Assessment/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/reports/ActiveScan.html).
+  - -[Zap Passive Scan Report.html](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Security%20Assessment/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/reports/PassiveScan.html).
+    - -[Zap Spider Scan Report.html](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/blob/main/Security%20Assessment/SECURITY_TESTING_ACTIVE_SCAN_CONTEXT/reports/Spider.html).
 - [First Assessment File](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Security%20Assessment/First%20Assesment.pdf)
 - [WebGoat Application download](https://github.com/WebGoat/WebGoat)
 - [csrf html files](https://github.com/pukumars2003/Effigo-QA-JAVA-and-SELENIUM/tree/main/Security%20Assessment/csrf_level5.html)
